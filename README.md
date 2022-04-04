@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou o Moisés,estudo na escola técnica Dr Solon Tavares em Guaiba-RS e tenho 41 anos.
+- 👋 Olá,Estudo na escola técnica Dr Solon Tavares em Guaiba-RS.
 - 👀 Sou apaixonado por computadores e tecnologia.
 - 📫 Entre em contato, meu whatsapp:(51)995708012.
 
